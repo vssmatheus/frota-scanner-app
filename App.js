@@ -1,3 +1,4 @@
+// npx expo start --tunnel
 import { NavigationContainer } from '@react-navigation/native';
 import StackNavigator from './src/Routes/StackNavigator';
 
